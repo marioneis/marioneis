@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% include menubar.html active="" %}
+
+<div style="padding-top: 20px" class="ui container ">
+  <p>Desculpe mas a página pretendida não pode ser localizada. Verifique o link digitado. Talvez você queira acessar alguma das páginas abaixo:</p>
+
+  <h3>Publicações</h3>
+  <ul>
+    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
+    {% for page in essay_pages %}
+      <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h3>Projetos</h3>
+  <ul>
+    {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
+    {% for page in project_pages %}
+    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>
+

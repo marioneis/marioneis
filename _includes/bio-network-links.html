@@ -1,0 +1,17 @@
+<!-- Used by theme-bio-builtin-1,2 -->
+
+{% if site.data.bio.basics.website %}
+  <p class="ui no-bottom"><a href="{{ site.data.bio.basics.website }}"> <i class="large home icon "></i>{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}</a></p>
+{% endif %}
+
+{% if site.data.bio.basics.email %}
+<p class="ui no-bottom" {{ site.data.bio.basics.email }}></p> <i class="large mail outline icon "></i>{{ site.data.bio.basics.email }}</a></p>
+{% endif %}
+
+{% for entry in site.data.bio.basics.profiles %}
+     <p class="ui no-bottom"><a href="{{ entry.url }}" target="_blank"> <i class="large {{ entry.network | downcase }} icon "></i>{{ entry.username }}</a></p>
+{% endfor %}
+
+<!--insercao do item do linkedin (icone) e do Latess (icone)-->
+     <p class="ui no-bottom"><a href="http://lattes.cnpq.br/9565359891217017" target="_blank"> <i class="lattes"></i>Mário Neis (Lattes)</a></p>
+     <p class="ui no-bottom"><a href="http://linkedin.com/in/marioneis" target="_blank"> <i class="linkedin"></i>Mário Neis (linkedin)</a></p> 

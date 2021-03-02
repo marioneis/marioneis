@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Mário Inácio Neis",
+    "label": "IT Technician with Cybersecurity Specialization",
+    "picture": "https://marioneis.github.io/images/portrait_mro.jpg",
+    "email": "mario.neis(AT)ufrgs.br",
+    "phone": "",
+    "website": "https://marioneis.github.io",
+    "summary": "IT technician at UFRGS | Associate in Applied Sciences (WEB Systems) at Universidade Feevale | Cybersecurity especialization int the Postgraduate Course Program at Instituto de Informática da UFRGS | Master's degree coming soon.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Porto Alegre",
+      "countryCode": "Brasil",
+      "region": "Rio Grande do Sul"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "Mário Neis (github)",
+        "url": "http://github.com/marioneis"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "IoTs",
+      "keywords": [
+        "4.0 Industry",
+        "Man-Machine Simbiosis",
+        "Pervasive WEB"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Predictive decision making"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Cyberphysical IoTs"
+      ]
+    },
+    {
+      "name": "CyberSec",
+      "keywords": [
+        "Pentest (penetration testing)",
+        "OWASP top 10",
+        "kali OS/ Parrot OS/ BlackArch"
+      ]
+    },
+    {
+      "name": "SysAdmin",
+      "keywords": [
+        "Resources and Assets Management",
+        "DevOPS",
+        "System Management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Powerbuilder",
+        "SQL (Oracle, SQL Server, Sybase)",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Operational Systems and Version Controlling Tools",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Linux/Unix (Ubuntu, Debian, Arch, RHEL)",
+        "Windows",
+        "Git/GitHub",
+        "SVN"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Federal do Rio Grande do Sul",
+      "area": "IT",
+      "studyType": "Postgraduate",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": [
+        "Cybersecurity Specialization."
+      ]
+    },
+    {
+      "institution": "Universidade Feevale",
+      "area": "IT",
+      "studyType": "Associate in Applied Sciences",
+      "startDate": "2006",
+      "endDate": "2011",
+      "courses": [
+        "Internet Sytems"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Universidade Federal do Rio Grande do Sul -  UFRGS",
+      "position": "IT Technician",
+      "website": "http://www.ufrgs.br/fabico/",
+      "startDate": "2015",
+      "endDate": "N/A",
+      "summary": "Tech Support, Sys Adm, Routine/Process optimization",
+      "highlights": [
+        "FOG Project",
+        "PXE",
+        "Ticket System",
+        "Network Management"
+      ]
+    },
+    {
+      "company": "Companhia Municipal de Água e Esgoto de Novo Hamburgo, COMUSA",
+      "position": "Public Servant",
+      "website": "http://www.comusa.rs.gov.br",
+      "startDate": "2009",
+      "endDate": "2015",
+      "summary": "Leiturista",
+      "highlights": [
+        "Leitura de consumos e cadastro de usuários"
+      ]
+    },
+    {
+      "company": "Quantiza Systems",
+      "position": "Programador Pleno III / System Developer III",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2008",
+      "summary": "Developing and tech support for systems of the Shoe Making environment.",
+      "highlights": [
+        "powerbuilder 8",
+        "Sybase"
+      ]
+    },
+    {
+      "company": "GETNET Tecnologia em captura e Processamento de Informações HUA",
+      "position": "Programador Pleno I / System Developer I",
+      "website": "http://www.getnet.com.br",
+      "startDate": "2006",
+      "endDate": "2008",
+      "summary": "Developing and maintenance of public transport ticket system and framework develop for that project (using PowerBuilder language and Sybase DB). Development of API/Web Service (JAVA) to integrate different systems/environments.",
+      "highlights": [
+        "powerbuilder 9",
+        "Sybase",
+        "java (webservices)"
+      ]
+    }
+  ],  
+  "references": [
+    {
+      "name": "Request through my contacts.",
+      "reference": "Lux in Tenebris:. Saudações. 93!"
+    }
+  ]
+}

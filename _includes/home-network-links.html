@@ -1,0 +1,12 @@
+<!-- Used by theme-home-builtin-1,2,3 -->
+
+{% for profile in site.data.bio.basics.profiles %}
+   <a href="{{ profile.url }}"> <i class="big {{ profile.network | downcase }} icon icon-color"></i> </a>
+{% endfor %}
+
+{% if site.data.bio.basics.email %}
+  <a href="{{ site.data.bio.basics.email }}"> <i class="big mail square icon icon-color"></i> </a>
+{% endif %}
+<!--insercao do item do linkedin (icone) e do Latess (icone)-->
+     <p class="ui no-bottom"><a href="http://lattes.cnpq.br/9565359891217017" target="_blank"> <i class="lattes"></i>Mário Neis (Lattes)</a></p>
+     <p class="ui no-bottom"><a href="http://linkedin.com/in/marioneis" target="_blank"> <i class="linkedin"></i>Mário Neis (linkedin)</a></p> 

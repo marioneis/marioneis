@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Mário Inácio Neis",
+    "label": "Especialista em Segurança Cibernética",
+    "picture": "https://marioneis.github.io/images/portrait_mro.jpg",
+    "email": "mario.neis(AT)ufrgs.br",
+    "phone": "",
+    "website": "https://marioneis.github.io",
+    "summary": "Técnico em Informática na UFRGS | Tecnólogo em Sistemas para WEB pela Universidade Feevale | Especialista em Segurança Cibernética pelo programa de Pós Graduação do Instituto de Informática da UFRGS | Futuro mestrando.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Porto Alegre",
+      "countryCode": "Brasil",
+      "region": "Rio Grande do Sul"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "Mário Neis (github)",
+        "url": "http://github.com/marioneis"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "IoTs",
+      "keywords": [
+        "Indústria 4.0",
+        "Simbiose Humano-máquina",
+        "Internet pervasiva"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Tomada de decisão preditiva"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Dispositivos Ciberfísicos inteligentes"
+      ]
+    },
+    {
+      "name": "CyberSec",
+      "keywords": [
+        "Testes de penetração",
+        "OWASP top 10",
+        "kali OS/ Parrot OS/ BlackArch"
+      ]
+    },
+    {
+      "name": "SysAdmin",
+      "keywords": [
+        "Gerenciamento de recursos",
+        "DevOPS",
+        "System Management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linguagens e Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Powerbuilder",
+        "SQL (Oracle, SQL Server, Sybase)",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Sistemas Operacionais e ferramentas de controle/versionamento",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Linux/Unix (Ubuntu, Debian, Arch, RHEL)",
+        "Windows",
+        "Git/GitHub",
+        "SVN"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Federal do Rio Grande do Sul",
+      "area": "Tecnologia da Informação",
+      "studyType": "Pós graduação",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": [
+        "Especialização em Segurança Cibernética."
+      ]
+    },
+    {
+      "institution": "Universidade Feevale",
+      "area": "Tecnologia da Informação",
+      "studyType": "Graduação",
+      "startDate": "2006",
+      "endDate": "2011",
+      "courses": [
+        "Tecnologia de Sistemas para Internet"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Universidade Federal do Rio Grande do Sul",
+      "position": "Técnico em Tecnologia da Informação",
+      "website": "http://www.ufrgs.br/fabico/",
+      "startDate": "2015",
+      "endDate": "N/A",
+      "summary": "Suporte técnico, Administração de sistemas, otimização de rotinas",
+      "highlights": [
+        "FOG Project",
+        "PXE",
+        "Ticket System",
+        "Gerenciamento de Rede"
+      ]
+    },
+    {
+      "company": "Companhia Municipal de Água e Esgoto de Novo Hamburgo, COMUSA",
+      "position": "Servidor Público Municipal",
+      "website": "http://www.comusa.rs.gov.br",
+      "startDate": "2009",
+      "endDate": "2015",
+      "summary": "Leiturista",
+      "highlights": [
+        "Leitura de consumos e cadastro de usuários"
+      ]
+    },
+    {
+      "company": "Quantiza Systems",
+      "position": "Programador Pleno III",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2008",
+      "summary": "Desenvolvimento e suporte de sistemas de gestão para o setor calçadista",
+      "highlights": [
+        "powerbuilder 8",
+        "Sybase"
+      ]
+    },
+    {
+      "company": "GETNET Tecnologia em captura e Processamento de Informações HUA",
+      "position": "Programador Pleno I",
+      "website": "http://www.getnet.com.br",
+      "startDate": "2006",
+      "endDate": "2008",
+      "summary": "Trabalhei com o desenvolvimento e manutenção de sistema de gestão para bilhetagem eletrônica e do framerwork relacionado ao projeto desenvolvido na liguagem Powerbuilder, usando o banco de dados Sybase. Participei da criação de api / WebService na linguagem Java para integração da bilhetagem entre sistemas.",
+      "highlights": [
+        "powerbuilder 9",
+        "Sybase",
+        "java (webservices)"
+      ]
+    }
+  ],  
+  "references": [
+    {
+      "name": "Solicite através de meus contatos.",
+      "reference": "Lux in Tenebris:. Saudações. 93!"
+    }
+  ]
+}
