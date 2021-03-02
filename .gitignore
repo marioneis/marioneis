@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+*.iml
+_site/
+.sass-cache/
+/.jekyll-metadata
+/.jekyll-cache
+/.vs
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/10/dca90e73206aa3c17494d1ae4eb28340f41a66c9419b72430674ce99594ad3
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1f/b72d44430f9a08538cfb2b369bddd92bd899a9a8c0550b226faf1e0ffd9c43
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/50/a0542049348258ae4886a247eadd9cadd2c22c4d2b8d7a6864ad5cc93c6875
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/cec5c92d320cee9d36e6c3d4a95bf4123805e894a3cd4982340848b20be918
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7b/eb71543273c4d5bc02d0e5049a0b00cf532ccc51e832fd1680b14d36512e99
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/95/ac85332533ff6e81643c88673c8de1523f0b6fa914323eb518ad76ab19062c
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c3/e2f65fd25964fc7b377c083c7dec2cb2a69fb269d483fcff696c9bd8b645a0
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d8/eb1272be22b601e1e3ad2eff6b59505e8ecfd7eb35d0a10f8067cb0c4c5109
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ff/211c0b748e10b612f4016da4bb0140e581c62d2e26397d4ef7660c9aa5716c

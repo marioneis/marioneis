@@ -1,0 +1,14 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /_data/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /bio/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /pdf/
+
+# Group 2
+User-agent: *
+Allow: /
