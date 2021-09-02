@@ -6,7 +6,7 @@
     "email": "mario.neis(AT)ufrgs.br",
     "phone": "",
     "website": "https://marioneis.github.io",
-    "summary": "IT technician at UFRGS | Associate in Applied Sciences (WEB Systems) at Universidade Feevale | Cybersecurity especialization int the Postgraduate Course Program at Instituto de Informática da UFRGS",
+    "summary": "IT technician at UFRGS | Associate in Applied Sciences (WEB Systems) at Universidade Feevale | Cybersecurity especialization in the Postgraduate Course Program at Instituto de Informática da UFRGS | Master's student in Production Engineering at UFRGS",
     "location": {
       "address": "",
       "postalCode": "",
@@ -88,6 +88,15 @@
   ],
   "education": [
     {
+      "institution": "Universidade Federal do Rio Grande do Sul",
+      "area": "Engineering",
+      "studyType": "Master's",
+      "startDate": "2021",
+      "endDate": "-",
+      "courses": [
+        "Production Engineering"
+      ]
+    },{
       "institution": "Universidade Federal do Rio Grande do Sul",
       "area": "IT",
       "studyType": "Postgraduate",
