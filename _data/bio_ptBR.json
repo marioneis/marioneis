@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mário Inácio Neis",
-    "label": "Especialista em Segurança Cibernética",
+    "label": "Administrador de Sistemas",
     "picture": "https://marioneis.github.io/images/portrait_mro.jpg",
     "email": "mario.neis(AT)ufrgs.br",
     "phone": "",
     "website": "https://marioneis.github.io",
-    "summary": "Técnico em Informática na UFRGS | Tecnólogo em Sistemas para WEB pela Universidade Feevale | Especialista em Segurança Cibernética pelo programa de Pós Graduação do Instituto de Informática da UFRGS | Futuro mestrando.",
+    "summary": "Analista de Tecnologia da Informação na UFRGS | Tecnólogo em Sistemas para WEB pela Universidade Feevale | Especialista em Segurança Cibernética pelo programa de Pós Graduação do Instituto de Informática da UFRGS | Futuro mestrando.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -159,7 +159,7 @@
         "java (webservices)"
       ]
     }
-  ],  
+  ],
   "references": [
     {
       "name": "Solicite através de meus contatos.",
