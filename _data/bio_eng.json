@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mário Inácio Neis",
-    "label": "IT Technician with Cybersecurity Specialization",
+    "label": "IT Analyst with Cybersecurity Specialization",
     "picture": "https://marioneis.github.io/images/portrait_mro.jpg",
     "email": "mario.neis(AT)ufrgs.br",
     "phone": "",
     "website": "https://marioneis.github.io",
-    "summary": "IT technician at UFRGS | Associate in Applied Sciences (WEB Systems) at Universidade Feevale | Cybersecurity especialization int the Postgraduate Course Program at Instituto de Informática da UFRGS | Master's degree coming soon.",
+    "summary": "IT Analyst at UFRGS | Associate in Applied Sciences (WEB Systems) at Universidade Feevale | Cybersecurity especialization int the Postgraduate Course Program at Instituto de Informática da UFRGS | Master's degree coming soon.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -111,8 +111,8 @@
   "work": [
     {
       "company": "Universidade Federal do Rio Grande do Sul -  UFRGS",
-      "position": "IT Technician",
-      "website": "http://www.ufrgs.br/fabico/",
+      "position": "IT Analyst",
+      "website": "http://www.ufrgs.br/",
       "startDate": "2015",
       "endDate": "N/A",
       "summary": "Tech Support, Sys Adm, Routine/Process optimization",
@@ -159,7 +159,7 @@
         "java (webservices)"
       ]
     }
-  ],  
+  ],
   "references": [
     {
       "name": "Request through my contacts.",
